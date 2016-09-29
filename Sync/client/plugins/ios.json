@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.gemini.sync"
+        },
+        "cordova-plugin-sqlite-2": {
+            "PACKAGE_NAME": "com.gemini.sync"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.gemini.sync"
+        }
+    },
+    "dependent_plugins": {}
+}
